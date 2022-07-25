@@ -1,0 +1,22 @@
+.baslik{
+    color: red;
+}
+
+.baslik2{
+    color:purple
+}
+
+.container{
+    width: 500px; /*ortalanacak div genişliği*/
+    margin:0 auto; /*alt-üst(0) sağ-sol(auto) boşluk olacak*/
+    border:1px solid white; /*çerçeve*/
+}
+
+.inside {
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.float{
+    float: left;
+}
